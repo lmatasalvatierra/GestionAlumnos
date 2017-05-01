@@ -1,0 +1,12 @@
+Luis 1
+Pedro 2
+Ana 3
+Adriana 4
+Andrea 1
+Rafael 2
+Beatriz 3
+Virginia 4
+Patricia 5
+Fernando 5
+Victor 6
+Jesus 6
